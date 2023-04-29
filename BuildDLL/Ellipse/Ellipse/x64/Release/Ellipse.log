@@ -1,0 +1,10 @@
+﻿  Ellipse.cpp
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Ellipse\Ellipse\Ellipse.cpp(32,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Ellipse\Ellipse\Ellipse.cpp(37,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     Creating library F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Ellipse\x64\Release\Ellipse.lib and object F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Ellipse\x64\Release\Ellipse.exp
+  Generating code
+  1 of 164 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ellipse.vcxproj -> F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Ellipse\x64\Release\Ellipse.dll

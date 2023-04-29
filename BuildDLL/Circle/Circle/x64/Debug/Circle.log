@@ -1,0 +1,5 @@
+﻿  Circle.cpp
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\DLL\Circle\Circle\Circle.cpp(31,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\DLL\Circle\Circle\Circle.cpp(37,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     Creating library F:\1LEARNING\TAI LI?U CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\DLL\Circle\x64\Debug\Circle.lib and object F:\1LEARNING\TAI LI?U CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\DLL\Circle\x64\Debug\Circle.exp
+  Circle.vcxproj -> F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\DLL\Circle\x64\Debug\Circle.dll

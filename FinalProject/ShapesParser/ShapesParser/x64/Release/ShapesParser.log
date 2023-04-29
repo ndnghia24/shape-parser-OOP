@@ -1,0 +1,28 @@
+﻿  Circle.cpp
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\FinalProject\ShapesParser\ShapesParser\Circle.cpp(10,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\FinalProject\ShapesParser\ShapesParser\Circle.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CircleParser.cpp
+  CirclePrintingStrategy.cpp
+  Ellipse.cpp
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\FinalProject\ShapesParser\ShapesParser\Ellipse.cpp(11,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\FinalProject\ShapesParser\ShapesParser\Ellipse.cpp(16,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  EllipseParser.cpp
+  EllipsePrintingStrategy.cpp
+  ShapeParser.cpp
+  main.cpp
+  Object.cpp
+  Rectangle.cpp
+  RectangleParser.cpp
+  RectanglePrintingStrategy.cpp
+  Shape.cpp
+  ShapeParserFactory.cpp
+  ShapePrintingContext.cpp
+  ShapePrintingStrategy.cpp
+  Square.cpp
+  SquareParser.cpp
+  SquarePrintingStrategy.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 785 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ShapesParser.vcxproj -> F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\FinalProject\ShapesParser\x64\Release\ShapesParser.exe

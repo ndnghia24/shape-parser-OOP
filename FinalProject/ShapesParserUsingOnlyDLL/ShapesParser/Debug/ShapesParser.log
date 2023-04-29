@@ -1,0 +1,23 @@
+﻿  ShapeParser.cpp
+  main.cpp
+D:\ProgramFiles\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(14,21): error C2039: 'filesystem': is not a member of 'std'
+D:\ProgramFiles\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\algorithm(76,1): message : see declaration of 'std'
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(14,31): error C2878: 'filesystem': a namespace or class of this name does not exist
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(26,30): error C2653: 'fs': is not a class or namespace name
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(26,5): error C2530: 'entry': references must be initialized
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(26,5): error C3531: 'entry': a symbol whose type contains 'auto' must have an initializer
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(26,28): error C2143: syntax error: missing ';' before ':'
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(26,34): error C3861: 'directory_iterator': identifier not found
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(26,57): error C2143: syntax error: missing ';' before ')'
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(127,27): warning C4018: '<': signed/unsigned mismatch
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(134,33): warning C4018: '<': signed/unsigned mismatch
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\main.cpp(143,27): warning C4018: '<': signed/unsigned mismatch
+  Object.cpp
+  Shape.cpp
+  ShapeParserFactory.cpp
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\ShapeParserFactory.cpp(28,21): error C2039: 'contains': is not a member of 'std::map<std::string,ShapeParser *,std::less<std::string>,std::allocator<std::pair<const std::string,ShapeParser *>>>'
+F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\ShapesParserDLL\ShapesParser\ShapeParserFactory.h(17,2): message : see declaration of 'std::map<std::string,ShapeParser *,std::less<std::string>,std::allocator<std::pair<const std::string,ShapeParser *>>>'
+  ShapePrintingContext.cpp
+  ShapePrintingStrategy.cpp
+  Generating Code...

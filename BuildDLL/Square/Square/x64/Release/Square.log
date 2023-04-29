@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Square.cpp
+     Creating library F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Square\x64\Release\Square.lib and object F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Square\x64\Release\Square.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 154 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Square.vcxproj -> F:\1LEARNING\TÀI LIỆU CNTT -- LT\HK4\2. OOP_TDQ\DO AN LT\BuildDLL\Square\x64\Release\Square.dll

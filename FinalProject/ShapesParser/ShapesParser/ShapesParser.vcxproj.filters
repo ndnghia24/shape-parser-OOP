@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Circle">
+      <UniqueIdentifier>{5f4f1617-28e7-4a32-a1a6-d22b50a42452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Square">
+      <UniqueIdentifier>{64dce667-2c73-460d-a3ad-2b4c1490802b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rectangle">
+      <UniqueIdentifier>{6fb8fee0-f44b-4933-86b2-8d68869ef0a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interface">
+      <UniqueIdentifier>{80d097a1-5f58-4e4a-9140-e507c60b7f54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Circle">
+      <UniqueIdentifier>{3f8651c4-15b1-43e3-9ed3-448f082e3317}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Square">
+      <UniqueIdentifier>{a176d498-d4f4-4ead-9663-09c3ae908247}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Rectangle">
+      <UniqueIdentifier>{ffeeb2fb-4fa8-457b-86a4-c88b6245624d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Interface">
+      <UniqueIdentifier>{7f43cf56-589b-45c2-9dfd-2c6bfa1ff986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Ellipse">
+      <UniqueIdentifier>{93395502-a15c-4809-a20b-07035c406930}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ellipse">
+      <UniqueIdentifier>{249abf0e-3e43-45b0-ac36-8cf1e4993c70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Source Files\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleParser.cpp">
+      <Filter>Source Files\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Source Files\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="SquareParser.cpp">
+      <Filter>Source Files\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Source Files\Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleParser.cpp">
+      <Filter>Source Files\Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeParserFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeParser.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapePrintingStrategy.cpp">
+      <Filter>Source Files\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="CirclePrintingStrategy.cpp">
+      <Filter>Source Files\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="RectanglePrintingStrategy.cpp">
+      <Filter>Source Files\Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="SquarePrintingStrategy.cpp">
+      <Filter>Source Files\Square</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapePrintingContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ellipse.cpp">
+      <Filter>Source Files\Ellipse</Filter>
+    </ClCompile>
+    <ClCompile Include="EllipseParser.cpp">
+      <Filter>Source Files\Ellipse</Filter>
+    </ClCompile>
+    <ClCompile Include="EllipsePrintingStrategy.cpp">
+      <Filter>Source Files\Ellipse</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="shapes.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ShapeParserFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Header Files\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleParser.h">
+      <Filter>Header Files\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeParser.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Header Files\Rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleParser.h">
+      <Filter>Header Files\Rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Header Files\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="SquareParser.h">
+      <Filter>Header Files\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapePrintingStrategy.h">
+      <Filter>Header Files\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="CirclePrintingStrategy.h">
+      <Filter>Header Files\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="RectanglePrintingStrategy.h">
+      <Filter>Header Files\Rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="SquarePrintingStrategy.h">
+      <Filter>Header Files\Square</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapePrintingContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ellipse.h">
+      <Filter>Header Files\Ellipse</Filter>
+    </ClInclude>
+    <ClInclude Include="EllipseParser.h">
+      <Filter>Header Files\Ellipse</Filter>
+    </ClInclude>
+    <ClInclude Include="EllipsePrintingStrategy.h">
+      <Filter>Header Files\Ellipse</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
