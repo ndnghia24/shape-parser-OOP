@@ -16,6 +16,6 @@ Tải mã nguồn và cài đặt các thư viện cần thiết.
 Chạy chương trình ShapesParser.exe để đọc và xử lí danh sách các đối tượng hình học từ tập tin shapes.txt.
 Kết quả sẽ được in ra màn hình theo yêu cầu.
 
-Tác giả:
+## Tác giả:
 Ngô Đức Nghĩa
 Github: https://github.com/ndnghia24
