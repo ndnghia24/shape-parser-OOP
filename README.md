@@ -1,5 +1,5 @@
 # Project Shapes
-Dự án ShapesParser sử dụng phương pháp lập trình hướng đối tượng để đọc và xử lí danh sách các đối tượng hình học được lưu trong tập tin shapes.txt.
+Tạo Project ShapesParser sử dụng phương pháp lập trình hướng đối tượng để đọc và xử lí danh sách các đối tượng hình học được lưu trong tập tin shapes.txt.
 
 ## Yêu cầu cơ bản:
 Đọc danh sách các đối tượng hình học từ tập tin shapes.txt và in ra danh sách các hình đã đọc.
