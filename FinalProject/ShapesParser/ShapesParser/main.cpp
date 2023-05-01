@@ -56,7 +56,8 @@ int main()
             getline(reader, line);
 
             // Đọc dữ liệu cho từng hình trong tệp
-            for (int i = 0; i < quantity; i++) {
+            for (int i = 0; i < quantity && !reader.eof(); i++) 
+	    {
                 getline(reader, line);
                 stringstream buffer(line);
                 string type;
