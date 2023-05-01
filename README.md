@@ -7,8 +7,11 @@ Sắp xếp danh sách các hình theo diện tích tăng dần và in ra màn h
 
 ## Yêu cầu nâng cao:
 Sử dụng mẫu thiết kế design pattern, bao gồm các design pattern Singleton, Factory và Strategy, và nguyên tắc dependency injection.
+
 Sử dụng con trỏ thông minh để giải quyết các vấn đề liên quan đến con trỏ.
+
 Comment đầy đủ các hàm trong mã nguồn.
+
 Xử lí các ngoại lệ dễ nhận ra, bao gồm các trường hợp không có dữ liệu, dữ liệu không đúng định dạng và các trường hợp lỗi khác.
 
 ## Hướng dẫn sử dụng:
